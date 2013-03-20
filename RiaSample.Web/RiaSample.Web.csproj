@@ -160,6 +160,6 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
-  <Import Project="..\packages\RIAServices.Server.4.2.0\tools\Microsoft.Ria.Validation.targets" />
   <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
+  <Import Project="..\packages\RIAServices.Server.4.2.0\tools\Microsoft.Ria.Validation.targets" />
 </Project>
